@@ -33,7 +33,7 @@ Node.js (v14 or above)
 npm (Node Package Manager)
 
 # libraray Installation
-npm install chartjs react-chartjs-2
+npm install chart.js react-chartjs-2
 
 # Installation
 npm install
