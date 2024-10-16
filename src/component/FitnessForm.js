@@ -55,7 +55,7 @@ export default function FitnessForm() {
     addWorkoutEntry(newWorkoutEntry);
     toast.success("Workout entry created successfully!");
     resetForm();
-    navigate("/"); 
+    navigate("/dashboard"); 
   };
 
   const resetForm = () => {
